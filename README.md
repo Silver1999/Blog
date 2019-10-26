@@ -1,4 +1,5 @@
 # Blog
 simple laravel blog
 
-The sql dump is in _SQL/lsapp.sql
+1)The sql dump is in _SQL/lsapp.sql
+2)php artisan storage:link
